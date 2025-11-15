@@ -1,0 +1,25 @@
+{
+  "name": "al-farooq-kidney-center",
+  "version": "1.0.0",
+  "description": "Modern Appointment Management System for Al Farooq Kidney Center",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'",
+    "start": "vercel dev"
+  },
+  "keywords": [
+    "appointment",
+    "management",
+    "healthcare"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.4"
+  },
+  "devDependencies": {
+    "vercel": "^32.5.0"
+  }
+}
+
